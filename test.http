@@ -1,0 +1,17 @@
+POST http://localhost:3000/create-auth-user
+content-type: application/json
+
+{
+    "email": "pepe@claro.com",
+    "password": "prueba123"
+}
+
+###
+
+POST http://localhost:3000/sign-in-user
+content-type: application/json
+
+{
+    "email": "pepe@claro.com",
+    "password": "prueba123"
+}
