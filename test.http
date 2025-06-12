@@ -20,7 +20,7 @@ POST https://cable-net-backend.onrender.com/create-auth-user
 content-type: application/json
 
 {
-    "email": "jose@claro.com",
+    "email": "juanca@claro.com",
     "password": "prueba123"
 }
 
